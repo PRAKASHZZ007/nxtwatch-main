@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/nxtwatch-main/static/css/main.fe6932e7.chunk.css",
-    "main.js": "/nxtwatch-main/static/js/main.812e7553.chunk.js",
-    "main.js.map": "/nxtwatch-main/static/js/main.812e7553.chunk.js.map",
+    "main.js": "/nxtwatch-main/static/js/main.b4ed8577.chunk.js",
+    "main.js.map": "/nxtwatch-main/static/js/main.b4ed8577.chunk.js.map",
     "runtime-main.js": "/nxtwatch-main/static/js/runtime-main.2cec52ad.js",
     "runtime-main.js.map": "/nxtwatch-main/static/js/runtime-main.2cec52ad.js.map",
     "static/css/2.e8106d54.chunk.css": "/nxtwatch-main/static/css/2.e8106d54.chunk.css",
-    "static/js/2.b423b7d6.chunk.js": "/nxtwatch-main/static/js/2.b423b7d6.chunk.js",
-    "static/js/2.b423b7d6.chunk.js.map": "/nxtwatch-main/static/js/2.b423b7d6.chunk.js.map",
+    "static/js/2.509fe347.chunk.js": "/nxtwatch-main/static/js/2.509fe347.chunk.js",
+    "static/js/2.509fe347.chunk.js.map": "/nxtwatch-main/static/js/2.509fe347.chunk.js.map",
     "index.html": "/nxtwatch-main/index.html",
     "static/css/2.e8106d54.chunk.css.map": "/nxtwatch-main/static/css/2.e8106d54.chunk.css.map",
     "static/css/main.fe6932e7.chunk.css.map": "/nxtwatch-main/static/css/main.fe6932e7.chunk.css.map",
-    "static/js/2.b423b7d6.chunk.js.LICENSE.txt": "/nxtwatch-main/static/js/2.b423b7d6.chunk.js.LICENSE.txt"
+    "static/js/2.509fe347.chunk.js.LICENSE.txt": "/nxtwatch-main/static/js/2.509fe347.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2cec52ad.js",
     "static/css/2.e8106d54.chunk.css",
-    "static/js/2.b423b7d6.chunk.js",
+    "static/js/2.509fe347.chunk.js",
     "static/css/main.fe6932e7.chunk.css",
-    "static/js/main.812e7553.chunk.js"
+    "static/js/main.b4ed8577.chunk.js"
   ]
 }
