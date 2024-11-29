@@ -1,4 +1,4 @@
-import {Route, Switch, Redirect} from 'react-router-dom'
+import { HashRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import {Component} from 'react'
 
 import Login from './components/login'
@@ -91,6 +91,7 @@ class App extends Component {
           <ActiveMenuContext.Provider
             value={{activeMenu, changeActiveMenu: this.changeActiveMenu}}
           >
+          <Router>
             <Switch>
               <Route exact path="/login" component={Login} />
               <ProtectedRoute exact path="/" component={Home} />
@@ -109,6 +110,7 @@ class App extends Component {
               <ProtectedRoute exact path="/not-found" component={NotFound} />
               <Redirect to="/not-found" />
             </Switch>
+            </Router>
           </ActiveMenuContext.Provider>
         </SavedVideosContext.Provider>
       </ThemeContext.Provider>
